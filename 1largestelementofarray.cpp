@@ -25,7 +25,8 @@ int main(){
         if(arr[j] > largest){
         largest= arr[j];
         } 
-    } cout<<"largest element of array is : "<<largest<<endl;
+    } 
+    cout<<"largest element of array is : "<<largest<<endl;
 }
  
 
